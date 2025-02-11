@@ -11,11 +11,6 @@ I am an experienced computer scientist, researcher, and entrepreneur specializin
 - **Project Management:** Git, Docker, Agile, LaTeX, Technical Writing
 - **Languages:** English, Spanish, Catalan (Bilingual); Italian (Intermediate), German (Basic)
 
-🎓 **Education:**
-- Ph.D. in Computer Science (Augmented Reality) - Edinburgh Napier University
-- M.Sc. in Computer Graphics, Computer Animation - Kingston University London
-- B.Sc. in Computer Science, Multimedia - Universitat Politècnica de Catalunya
-
 ## 🔬 Research & Publications
 I have presented my research at **ACM SIGGRAPH**, **IEEE VR** and other top-tier venues. Some of my recent works include:
 - **Structured Teaching Prompt Articulation for Generative-AI Role Embodiment with Augmented Displays** (ACM SIGGRAPH VRCAI '24)
@@ -28,6 +23,11 @@ I have presented my research at **ACM SIGGRAPH**, **IEEE VR** and other top-tier
 - **US11908068:** Augmented Reality Systems and Methods for Intermediated Reality
 - **US11288859:** Real-time Feature-Preserving Rendering of Facial Visual Effects
 - **Jóvenes Máshumano Award (2024):** Recognized for LisNav, an AI-driven AR app for the visually impaired
+
+## 🎓 Education:
+- Ph.D. in Computer Science (Augmented Reality) - Edinburgh Napier University
+- M.Sc. in Computer Graphics, Computer Animation - Kingston University London
+- B.Sc. in Computer Science, Multimedia - Universitat Politècnica de Catalunya
 
 ## 🌍 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/llogaricasas/)
