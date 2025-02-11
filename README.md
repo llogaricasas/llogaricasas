@@ -23,9 +23,10 @@ I have presented my research at **ACM SIGGRAPH**, **IEEE VR** and other top-tier
 - **US11908068:** Augmented Reality Systems and Methods for Intermediated Reality
 - **US11288859:** Real-time Feature-Preserving Rendering of Facial Visual Effects
 - **Jóvenes Máshumano Award (2024):** Recognized for LisNav, an AI-driven AR app for the visually impaired
+- **Young Computer Scientist Award (2021):** Awarded by the SCIE & BBVA Foundation for contributions to computer science research
 
 ## 🎓 Education:
-- Ph.D. in Computer Science (Augmented Reality) - Edinburgh Napier University
+- Ph.D. in Computer Science, Augmented Reality - Edinburgh Napier University
 - M.Sc. in Computer Graphics, Computer Animation - Kingston University London
 - B.Sc. in Computer Science, Multimedia - Universitat Politècnica de Catalunya
 
